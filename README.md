@@ -22,7 +22,6 @@ npm start
 - axios
 - material-ui/core
 - react-countdown
-- moment
 
 ## TODO
 - better UI (filter check box for example)
